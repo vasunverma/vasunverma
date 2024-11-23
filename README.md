@@ -4,9 +4,9 @@
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 <p align = 'center'><b>A Software Developer, with excellent problem solving skills and passionate about learning new technologies.</b></p> <br>
 
-:nerd_face: Currently looking for **Software Internships for Summer 2023** <br>
-:snowflake: Pursuing MSCS in **Computer Science** from **Texas A&M University, College Staion, TX** <br>
-🌱 I’m currently learning **MEAN Stack, Django, and working on AWS Cloud Practioner Certificate**<br>
+:nerd_face: Always on lookout for **Software Engineer** roles<br>
+:snowflake: Graduated with **Masters' in Computer Science** from **Texas A&M University, College Staion, TX** <br>
+🌱 I’m currently learning **React.js and Typerscript**<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
